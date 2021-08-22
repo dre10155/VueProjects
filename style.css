@@ -59,6 +59,9 @@ body {
   .disabledButton {
     background-color: #d8d8d8;
   }
+  .crossLine{
+      text-decoration: line-through;
+  }
   
   .review-form {
     width: 400px;
